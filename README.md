@@ -9,4 +9,10 @@ This repository contains the code for the experiments in the paper *Improving th
 - Edwards-Anderson spin glass
 - Blume-Capel model
 
+## Example: Ising model on the line with d = 50
+
+Below is an animation comparing the standard Metropolis-Hastings sampler with the adaptive projection sampler. The magnetization over time is shown at the bottom.
+
+![Ising animation](ising_config_with_magnetization.gif)
+
 We thank Zheyuan Lai for computational assistance.

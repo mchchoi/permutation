@@ -13,6 +13,8 @@ This repository contains the code for the experiments in the paper *Improving th
 
 Below is an animation comparing the standard Metropolis-Hastings sampler with the adaptive projection sampler. The magnetization over time is shown at the bottom.
 
+Standard MH (blue line) struggles to traverse between the two modes (all-black or all-white), while the projection sampler (red line) is able to hop between these two.
+
 ![Ising animation](ising_config_with_magnetization.gif)
 
 We thank Zheyuan Lai for computational assistance.
